@@ -39,6 +39,7 @@ Project Files
 - Customer Sales Analysis .xlsx
 - README.md
 - Dashboard Screenshot.png
+- https://github.com/sameerahmed512512-star/Customer_Sales_Data_Analysis/blob/main/Dashboard.png
 
 Author
 
