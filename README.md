@@ -37,6 +37,7 @@ This project improves practical Excel skills and demonstrates a complete data an
 Project Files
 
 - Customer Sales Analysis .xlsx
+- https://docs.google.com/spreadsheets/d/1upD6OWscwtwP5aBJGHnbIBR43cxlXoDC/edit?usp=sharing&ouid=103205253418123678222&rtpof=true&sd=true
 - README.md
 - Dashboard Screenshot.png
 - https://github.com/sameerahmed512512-star/Customer_Sales_Data_Analysis/blob/main/Dashboard.png
